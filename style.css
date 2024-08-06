@@ -61,11 +61,12 @@ body {
 }
 
 .menu {
-    
+    /* background-color: pink; */
     display: flex;
     justify-content: space-between;
     /* border-right: 2px solid rgb(222, 218, 218); */
     margin-left: 15px;
+    /* gap: 2px; */
     margin-top: 20px;
 }
 
@@ -106,6 +107,7 @@ body {
     /* display: flex;
     justify-content: space-between;
     gap: 43vw; */
+    /* background-color: red; */
     border-right: 2px solid rgb(10, 10, 29);
     padding-right: 10px;
 }
@@ -113,9 +115,11 @@ body {
 .indexmenu{
     display: flex;
     justify-content: space-between;
-    gap: 43vw;
+    gap: 54vw;
 }
-
+/* .rightMenu{
+    background-color: pink;
+} */
 .aiclasss span {
     border-right: 2px solid white;
 }
