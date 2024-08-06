@@ -115,7 +115,7 @@ body {
 .indexmenu{
     display: flex;
     justify-content: space-between;
-    gap: 54vw;
+    gap: 52vw;
 }
 /* .rightMenu{
     background-color: pink;
